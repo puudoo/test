@@ -7,4 +7,6 @@ int main(void){
 	printf("Dise, Hello!!\n");
 
 	printf("Second one\n");
+	
+	printf("third\n");
 }
